@@ -1,0 +1,37 @@
+{
+  "name": "Where-s-my-children",
+  "homepage": "https://github.com/kl0c3k/Where-s-my-children",
+  "authors": [
+    "Przemyslaw Przetocki <przemyslaw.przetocki@gmail.com>"
+  ],
+  "description": "Multiplatform app",
+  "main": "index.html",
+  "keywords": [
+    "android",
+    "java",
+    "html",
+    "css",
+    "children",
+    "gps"
+  ],
+  "private": true,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "neon-elements": "PolymerElements/neon-elements#^1.0.0",
+    "page": "visionmedia/page.js#~1.6.4",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1",
+    "platinum-elements": "PolymerElements/platinum-elements#^1.1.0",
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "^4.0.0"
+  },
+}

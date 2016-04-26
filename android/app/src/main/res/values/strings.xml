@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Where\'s my children</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
